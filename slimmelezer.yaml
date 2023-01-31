@@ -56,7 +56,7 @@ api:
 ota:
 
 dashboard_import:
-  package_import_url: github://zuidwijk/dsmr/slimmelezer.yaml@main
+  package_import_url: github://oliewa92/dsmr/slimmelezer.yaml@testing
 
 web_server:
   port: 80
